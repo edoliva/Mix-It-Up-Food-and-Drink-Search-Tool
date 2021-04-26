@@ -1,4 +1,4 @@
-# Mix-It-Up-_Drink_Search_Tool
+# Mix-It-Up: Food And Drink Search Tool
  
 ## Project Description
 This webpage was created so a user could search for drinks and meals by entering an ingredient name. They will be presented with the names of meals or dirnks that include the ingredient. When clicked, they can see more detailed info about that meal/drink.  
@@ -11,7 +11,7 @@ This webpage was created so a user could search for drinks and meals by entering
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-Clone or download this repository on GitHub then open "edoliva.github.io/Mix-It-Up-_Drink_Search_Tool" in a browser.  
+Clone or download this repository on GitHub then open "edoliva.github.io/Mix-It-Up-Food-and-Drink-Search-Tool/" in a browser.  
 ## Criteria
 - The user must enter the name of a an ingredient to search for a meal or drink. As more ingredients are searched, the names are rendered in the "Your searches" section. The previous 7 searches will be rendered.
 - If the user enters an invalid ingredient name then no meals/drinks data will be displayed.
